@@ -50,4 +50,4 @@ load_instructions()
 
 p1 = part1(25)
 print(p1)
-part2(p1)
+print(part2(p1))
